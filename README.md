@@ -8,15 +8,15 @@
 
 ![1576726479216](assets/1576726479216.png)
 
-#### 如果你使用了我上传的文件夹 SetupVPN ，请直接跳到第4步
+#### 如果你使用了我上传的文件夹 SetupVPN 且有chrome，请直接跳到第4步
 
-1. #### 首先你得下载一个chrome（我是电脑管家）
+1. #### 首先下载一个chrome（我是用电脑管家下载）
 
    <p><a href='https://www.google.cn/intl/zh-CN/chrome/'>点我下载官网chrome</a>
 
 ![1576725766993](assets/1576725766993.png)
 
-2. #### 你用chrome登录这个网址<https://www.crx4chrome.com/crx/36007/>
+2. #### 去这个网址下载插件<https://www.crx4chrome.com/crx/36007/>
 
    ![1576725947854](assets/1576725947854.png)
 
@@ -53,3 +53,4 @@ Email：909336740@qq.com
 QQ：909336740
 
 PS：如你尝试有效并喜欢，欢迎点赞，如你尝试失败请联系我。
+
