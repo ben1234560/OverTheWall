@@ -12,7 +12,7 @@
 
 1. #### 首先下载一个chrome（我是用电脑管家下载）
 
-   <p><a href='https://www.google.cn/intl/zh-CN/chrome/'>点我下载官网chrome</a>
+   <p><a href='https://www.google.cn/intl/zh-CN/chrome/'>点我下载官网chrome</a>  https://www.google.cn/intl/zh-CN/chrome/
 
 ![1576725766993](assets/1576725766993.png)
 
