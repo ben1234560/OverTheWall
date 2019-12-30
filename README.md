@@ -1,5 +1,7 @@
 ## 免费翻墙指南
 
+[![image](https://img.shields.io/badge/Browser-chrome-deepgreen.svg)](https://www.google.cn/intl/zh-CN/chrome/)
+
 #### 成品图（5步完成免费翻墙），免费支持（无利益相关）
 
 #### 看不到图片的，<a href='https://github.com/ben1234560/OverTheWall/blob/master/README%EF%BC%88%E7%9C%8B%E4%B8%8D%E5%88%B0%E5%9B%BE%E7%89%87%E8%AF%B7%E7%9C%8B%E8%BF%99%E4%B8%AA%EF%BC%89.pdf'>点我</a>
@@ -8,11 +10,13 @@
 
 #### 如果你使用了我上传的文件夹 SetupVPN ，请直接跳到第4步
 
-1. #### 首先你得下载一个chrom（电脑管家下载的）
+1. #### 首先你得下载一个chrome（我是电脑管家）
+
+   <p><a href='https://www.google.cn/intl/zh-CN/chrome/'>点我下载官网chrome</a>
 
 ![1576725766993](assets/1576725766993.png)
 
-2. #### 你用chrom登录这个网址<https://www.crx4chrome.com/crx/36007/>
+2. #### 你用chrome登录这个网址<https://www.crx4chrome.com/crx/36007/>
 
    ![1576725947854](assets/1576725947854.png)
 
@@ -20,7 +24,7 @@
 
    ![1576726102700](assets/1576726102700.png)
 
-4. #### 按照以下方式扩展到chrom
+4. #### 按照以下方式扩展到chrome
 
    ![1576726340805](assets/1576726340805.png)
 
