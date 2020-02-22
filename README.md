@@ -18,15 +18,15 @@
 
 2. #### 去这个网址下载插件<https://www.crx4chrome.com/crx/36007/>
 
-   <img src="assets/1576725947854.png" alt="下载插件截图" title="下载插件截图" width="400"  height = "450" />
+   <img src="assets/1576725947854.png" alt="下载插件截图" title="下载插件截图" width="600"  height = "450" />
 
 3. #### 新建文件夹，将文件解压进去
 
-   <img src="assets/1576726102700.png" alt="解压截图" title="解压截图" width="450"  height = "400" />
+   <img src="assets/1576726102700.png" alt="解压截图" title="解压截图" width="600"  height = "400" />
 
 4. #### 按照以下方式扩展到chrome
 
-   <img src="assets/1576726340805.png" alt="扩展程序截图" title="扩展程序截图" width="500"  height = "530" />
+   <img src="assets/1576726340805.png" alt="扩展程序截图" title="扩展程序截图" width="600"  height = "530" />
 
    
 
@@ -36,19 +36,17 @@
 
 5. #### 注册并选择服务器
 
-<img src="assets/1576726583482.png" alt="创建账户截图" title="创建账户截图" width="300"  height = "530" />
+<img src="assets/1576726583482.png" alt="创建账户截图" title="创建账户截图" width="350"  height = "530" />
 
-<img src="assets/1576729699489.png" alt="选择服务器截图" title="选择服务器截图" width="300"  height = "530" />
+<img src="assets/1576729699489.png" alt="选择服务器截图" title="选择服务器截图" width="350"  height = "530" />
 
-<img src="assets/1576726628858.png" alt="成功截图" title="成功截图" width="300"  height = "530" />
+<img src="assets/1576726628858.png" alt="成功截图" title="成功截图" width="350"  height = "530" />
 
 
 
 #### 完成！你现在可以用Google了
 
 #### 如果网络很差的，可以切换到其它的国家代理，如荷兰等地
-
-
 
 
 
