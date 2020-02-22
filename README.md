@@ -38,7 +38,7 @@
 
 <img src="assets/1576729699489.png" alt="选择服务器" title="选择服务器" width="400"  height = "700" />
 
-<img src="assets/1576726628858.png" alt="成功截图" title="成功截图" width="400"  height = "700" />
+<img src="assets/1576726628858.png" alt="成功截图" title="成功截图" width="300"  height = "550" />
 
 
 
@@ -54,11 +54,11 @@
 
 截图一：
 
-<img src="assets/1582335225955.png" alt="聊天截图1" title="聊天截图1" width="400"  height = "400" />
+<img src="assets/1582335225955.png" alt="聊天截图1" title="聊天截图1" width="600"  height = "400" />
 
 截图二：
 
-<img src="assets/1582335292518.png" alt="聊天截图2" title="聊天截图2" width="400"  height = "400" />
+<img src="assets/1582335292518.png" alt="聊天截图2" title="聊天截图2" width="600"  height = "400" />
 
 
 
