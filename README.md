@@ -2,7 +2,27 @@
 
 [![image](https://img.shields.io/badge/Browser-chrome-deepgreen.svg)](https://www.google.cn/intl/zh-CN/chrome/)
 
-#### 成品图（5步完成免费翻墙），免费支持（无利益相关/最下面有聊天截图）
+
+
+#### 成品图（两步完成免费翻墙），免费支持（无利益相关/最下面有聊天截图）
+
+#### 方法一：
+
+1. 把这个文件下载下来
+
+   
+
+   ![1582456891881](assets/1582456891881.png)
+
+2. 双击运行红框内文件，有提示同意即可
+
+   ![1582456924490](assets/1582456924490.png)
+
+3. 任意浏览器Google，完成
+
+   ![1582456984676](assets/1582456984676.png)
+
+#### 方法二（chrome插件式）：
 
 #### 看不到图片的，<a href='https://github.com/ben1234560/OverTheWall/blob/master/README%EF%BC%88%E7%9C%8B%E4%B8%8D%E5%88%B0%E5%9B%BE%E7%89%87%E8%AF%B7%E7%9C%8B%E8%BF%99%E4%B8%AA%EF%BC%89.pdf'>点我</a>
 
