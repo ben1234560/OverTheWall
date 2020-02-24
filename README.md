@@ -22,7 +22,7 @@
 
 #### 方法二（五步chrome插件法）：
 
-#### 看不到图片的，<a href='https://github.com/ben1234560/OverTheWall/blob/master/README%EF%BC%88%E7%9C%8B%E4%B8%8D%E5%88%B0%E5%9B%BE%E7%89%87%E8%AF%B7%E7%9C%8B%E8%BF%99%E4%B8%AA%EF%BC%89.pdf'>点我</a>
+#### 看不到图片的，<a href='https://github.com/ben1234560/OverTheWall/blob/master/README%EF%BC%88%E7%9C%8B%E4%B8%8D%E5%88%B0%E5%9B%BE%E7%89%87%E7%9C%8B%E8%BF%99%E4%B8%AA%E6%88%96%E8%80%85%E4%B8%8B%E8%BD%BD%EF%BC%89.pdf'>点我或者下载下来看</a>
 
 ![1576726479216](assets/1576726479216.png)
 
