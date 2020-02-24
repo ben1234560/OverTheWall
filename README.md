@@ -10,15 +10,15 @@
 
 1. 把Shadowsocks.zip文件下载下来
 
-   ![1582457275350](assets/1582457275350.png)
+   ![下载Shadowsockes.zip截图](assets/1582457275350.png)
 
 2. 双击运行Shadowsocks.exe红框内文件，有提示同意即可
 
-   ![1582456924490](assets/1582456924490.png)
+   ![运行Shadowsocks.exe截图](assets/1582456924490.png)
 
 3. 任意浏览器Google，完成
 
-   ![1582456984676](assets/1582456984676.png)
+   ![访问成功截图](assets/1582456984676.png)
 
 #### 方法二（五步chrome插件法）：
 
