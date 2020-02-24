@@ -8,15 +8,15 @@
 
 #### 方法一（两步懒人法）：
 
-1. 把Shadowsocks.zip文件下载下来
+1. 把Shadowsocks-4.1.4.zip文件下载下来
 
    ![下载Shadowsockes.zip截图](assets/1582457275350.png)
 
-2. 双击运行Shadowsocks.exe红框内文件，有提示同意即可
+2. 双击运行压缩包内Shadowsocks.exe红框内文件，有提示同意即可
 
    ![运行Shadowsocks.exe截图](assets/1582456924490.png)
 
-3. 任意浏览器Google，完成
+3. 任意浏览器访问外网即可
 
    ![访问成功截图](assets/1582456984676.png)
 
