@@ -1,4 +1,4 @@
-## 免费翻墙指南——至2020/03/09方法一暂不可用
+## 免费翻墙指南——至2020/03/27方法一暂不可用
 
 [![image](https://img.shields.io/badge/Browser-chrome-deepgreen.svg)](https://www.google.cn/intl/zh-CN/chrome/)
 
