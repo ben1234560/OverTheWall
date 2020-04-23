@@ -1,4 +1,4 @@
-## 免费翻墙指南——至2020/03/27方法一暂不可用
+## 免费翻墙指南
 
 [![image](https://img.shields.io/badge/Browser-chrome-deepgreen.svg)](https://www.google.cn/intl/zh-CN/chrome/)
 
@@ -6,7 +6,7 @@
 
 #### 成品图（两步完成免费翻墙），免费支持（无利益相关/最下面有聊天截图）
 
-#### 方法一（两步懒人法/网络稳定）：
+#### 方法一（暂不可用，请使用方法二/两步懒人法/网络稳定）：
 
 1. 把Shadowsocks-4.1.4.zip文件下载下来
 
@@ -25,8 +25,6 @@
 #### 看不到图片的，<a href='https://github.com/ben1234560/OverTheWall/blob/master/README%EF%BC%88%E7%9C%8B%E4%B8%8D%E5%88%B0%E5%9B%BE%E7%89%87%E7%9C%8B%E8%BF%99%E4%B8%AA%E6%88%96%E8%80%85%E4%B8%8B%E8%BD%BD%EF%BC%89.pdf'>点我或者下载下来看</a>
 
 ![1576726479216](assets/1576726479216.png)
-
-#### 如果你使用了我上传的文件夹 SetupVPN 且有chrome，请直接跳到第4步
 
 1. #### 首先下载一个chrome（我是用电脑管家下载）
 
