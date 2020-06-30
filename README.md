@@ -20,7 +20,7 @@
 
    ![访问成功截图](assets/1582456984676.png)
 
-#### 方法二（五步chrome插件法/360浏览器/只会在浏览器生效）：
+#### 方法二/版本更新3.9.7（五步chrome插件法/360浏览器/只会在浏览器生效）：
 
 #### 看不到图片的，<a href='https://github.com/ben1234560/OverTheWall/blob/master/README%EF%BC%88%E7%9C%8B%E4%B8%8D%E5%88%B0%E5%9B%BE%E7%89%87%E7%9C%8B%E8%BF%99%E4%B8%AA%E6%88%96%E8%80%85%E4%B8%8B%E8%BD%BD%EF%BC%89.pdf'>点我或者下载下来看</a>
 
@@ -35,6 +35,8 @@
 2. #### 去这个网址下载插件<https://www.crx4chrome.com/crx/36007/>
 
    <img src="assets/1576725947854.png" alt="下载插件截图" title="下载插件截图" width="600"  height = "500" />
+
+   > 目前最新版本已更新至3.9.7
 
 3. #### 新建文件夹，将文件解压进去
 
