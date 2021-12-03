@@ -4,65 +4,45 @@
 
 
 
-#### 由于以下两种方法VPN暂不可用，需要的可以跳转到这里，作者亲测有效<https://github.com/freefq/free>
-
-
-
-#### 方法一（暂不可用，请使用方法二/两步懒人法/网络稳定）：
-
-1. 把Shadowsocks-4.1.4.zip文件下载下来
-
-   ![下载Shadowsockes.zip截图](assets/1582457275350.png)
-
-2. 双击运行压缩包内Shadowsocks.exe红框内文件，有提示同意即可
-
-   ![运行Shadowsocks.exe截图](assets/1582456924490.png)
-
-3. 任意浏览器访问外网即可
-
-   ![访问成功截图](assets/1582456984676.png)
-
-#### 方法二/版本更新3.9.7（五步chrome插件法/360浏览器/只会在浏览器生效）：
+#### 方法一/版本更新3.9.7（五步chrome插件法/360浏览器/只会在浏览器生效）：
 
 #### 看不到图片的，<a href='https://github.com/ben1234560/OverTheWall/blob/master/README%EF%BC%88%E7%9C%8B%E4%B8%8D%E5%88%B0%E5%9B%BE%E7%89%87%E7%9C%8B%E8%BF%99%E4%B8%AA%E6%88%96%E8%80%85%E4%B8%8B%E8%BD%BD%EF%BC%89.pdf'>点我或者下载下来看</a>
 
 ![1576726479216](assets/1576726479216.png)
 
-1. #### 首先下载一个chrome（我是用电脑管家下载）
+#### 1. 首先下载一个chrome（我是用电脑管家下载）
 
-   <p><a href='https://www.google.cn/intl/zh-CN/chrome/'>点我下载官网chrome</a>  https://www.google.cn/intl/zh-CN/chrome/
+<p><a href='https://www.google.cn/intl/zh-CN/chrome/'>点我下载官网chrome</a>  https://www.google.cn/intl/zh-CN/chrome/
 
 ![1576725766993](assets/1576725766993.png)
 
-2. #### 去这个网址下载插件<https://www.crx4chrome.com/crx/36007/>
+#### 2.进入chrome的扩展程序（或Google浏览器输入：chrome://extensions/）
 
-   <img src="assets/1576725947854.png" alt="下载插件截图" title="下载插件截图" width="600"  height = "500" />
-
-   > 目前最新版本已更新至3.9.7
-
-3. #### 新建文件夹，将文件解压进去
-
-   <img src="assets/1576726102700.png" alt="解压截图" title="解压截图" width="650"  height = "400" />
-
-4. #### 按照以下方式扩展到chrome
-
-   <img src="assets/1576726340805.png" alt="扩展程序截图" title="扩展程序截图" width="600"  height = "530" />
-
-   
-
-   ![1576726414419](assets/1576726414419.png)
-
-   
-
-5. #### 注册并选择服务器（3.9.7版本后不再需要注册）
-
-<img src="assets/1576726583482.png" alt="创建账户截图" title="创建账户截图" width="320"  height = "530" />
-
-<img src="assets/1576729699489.png" alt="选择服务器截图" title="选择服务器截图" width="320"  height = "530" />
-
-<img src="assets/1576726628858.png" alt="成功截图" title="成功截图" width="320"  height = "530" />
+<img src="assets/1576726340805.png" alt="扩展程序截图" title="扩展程序截图" width="600"  height = "530" />
 
 
+
+#### 3.选择要扩展程序
+
+![1638501217574](assets/1638501217574.png)
+
+#### 3.使用扩展程序
+
+![1638501275033](assets/1638501275033.png)
+
+![1638501307451](assets/1638501307451.png)
+
+![1638501329876](assets/1638501329876.png)
+
+![1638501347157](assets/1638501347157.png)
+
+
+
+#### 4.点击想要的国家，成功！
+
+![1638501384327](assets/1638501384327.png)
+
+![1638501394439](assets/1638501394439.png)
 
 #### 完成！你现在可以用Google了
 
