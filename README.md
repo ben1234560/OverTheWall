@@ -2,7 +2,7 @@
 
 [![image](https://img.shields.io/badge/Browser-chrome-deepgreen.svg)](https://www.google.cn/intl/zh-CN/chrome/)
 
-
+### 2023年1月16日尝试不能连接，根据中国法律将不再更新这部分内容。
 
 #### 方法一/版本更新3.9.7（五步chrome插件法/360浏览器/只会在浏览器生效）：
 
